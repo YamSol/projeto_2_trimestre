@@ -1,6 +1,6 @@
 <?php 
-include_once "menu.php";
-include_once "principal.php";
-include_once "rodape.php";
-include_once "topo.php";
+include_once "pages/menu.php";
+include_once "pages/principal.php";
+include_once "pages/rodape.php";
+include_once "pages/topo.php";
 ?>
